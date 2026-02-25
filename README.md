@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "O mnie"
+permalink: "/o-mnie/"
 layout: page
 ---
 

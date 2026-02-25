@@ -1,6 +1,6 @@
-title: "Blog Title"
+title: "Biznes na autopilocie"
 author: "Blog Author"
-description: "My blog"
+description: "Mój blog o biznesie, marketingu i rozwoju osobistym."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,8 +23,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

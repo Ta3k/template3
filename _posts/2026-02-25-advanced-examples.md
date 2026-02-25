@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Zaawansowany przykład"
 mathjax: true
 layout: post
 categories: media

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Witaj na blogu"
 layout: post
 ---
 

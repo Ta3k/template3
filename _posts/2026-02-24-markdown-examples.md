@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Przykłady nagłówków"
 layout: post
 ---
 
